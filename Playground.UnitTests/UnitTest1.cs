@@ -8,7 +8,7 @@ namespace Playground.UnitTests
         [Fact]
         public void Test1()
         {
-            Assert.Equal(false, false);
+            Assert.Equal(false, true);
         }
     }
 }
